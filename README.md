@@ -72,6 +72,9 @@ sudo docker run --cpus="cantidad de CPU's" --memory="1g" -it fabricio2000gjuarez
 **Por archivos y funciones:**
 ![alt text](https://github.com/katherineggs/Paralelismo/blob/main/ArchivosFuncs.png)
 
+**Comparación de todos los modelos en todos los escenarios:**
+![alt text](https://github.com/katherineggs/Paralelismo/blob/main/todas.png)
+
 
 ## Conclusiones
 1. Modelo de paralelismo más rápido en los 6 escenarios:
