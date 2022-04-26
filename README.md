@@ -54,6 +54,7 @@ sudo docker run --cpus="cantidad de CPU's" --memory="1g" -it fabricio2000gjuarez
 
 **4 CPU's:**
 1. Ejecución del escenario de 4 CPU 8 hilos con restricciones de 1G RAM
+
 ![alt text](https://github.com/katherineggs/Paralelismo/blob/main/core4.png)
 
 
